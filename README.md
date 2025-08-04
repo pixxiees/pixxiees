@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Pixxelee 👋
 
-<!--
-**pixxiees/pixxiees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend & IoT Developer**  
+🚀 Currently working on **Drone GCS & ESP32 Projects**  
+🌱 Learning **MAVLink, React, and Redux**
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Pixxelee's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixxelee&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixxelee&layout=compact&theme=tokyonight)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pixxelee)
+
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/miftakhullaily/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/miftakhullaiyy/)

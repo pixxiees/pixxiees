@@ -5,11 +5,11 @@
 🌱 Learning **MAVLink, React, and Redux**
 
 ### 📊 GitHub Stats
-![Pixxelee's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixxelee&show_icons=true&theme=radical)
+![Pixxelee's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixxiees&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixxelee&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixxiees&layout=compact&theme=tokyonight)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pixxelee)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pixxiees)
 
 
 ### 🔗 Connect with me

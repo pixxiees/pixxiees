@@ -15,7 +15,6 @@
 <a href="https://instagram.com/miftakhullaiyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miftakhullaiyy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/miflaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="miflaa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/candlepiece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="candlepiece" height="30" width="40" /></a>
-<a href="/https://www.google.com/url?sa=i&url=https%3a%2f%2ftenor.com%2fsearch%2fprogrammer-gifs&psig=aovvaw0jessultc7dy0vuisovrsb&ust=1754562456696000&source=images&cd=vfe&opi=89978449&ved=0cbqqjrxqfwotckjm4nj89y4dfqaaaaadaaaaabae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.google.com/url?sa=i&url=https%3a%2f%2ftenor.com%2fsearch%2fprogrammer-gifs&psig=aovvaw0jessultc7dy0vuisovrsb&ust=1754562456696000&source=images&cd=vfe&opi=89978449&ved=0cbqqjrxqfwotckjm4nj89y4dfqaaaaadaaaaabae" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
